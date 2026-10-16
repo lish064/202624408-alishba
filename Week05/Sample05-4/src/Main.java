@@ -19,4 +19,5 @@ void main() {
     result = flag == true ? String.format("나이 : %d 세, 요금 = %,d 원", age, fee) : "나이 오류입니다";
 
     System.out.println(result);
+
 }

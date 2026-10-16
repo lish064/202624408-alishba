@@ -24,5 +24,6 @@ void main() {
    result = flag == true ? String.format("물품 가격 : %,d 원\n지불 금액 : %,d 원\n반환 금액 : %,d 원\n",
            price, payment, payment - price) : "금액이 부족 합니다" ;
    System.out.println(result);
-   
+
+
 }
