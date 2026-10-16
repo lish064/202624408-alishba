@@ -28,4 +28,5 @@ void main() {
     System.out.printf("할인 가격 : %,d 원\n", discount);
     System.out.printf("결제 금액 : %,d 원\n", lastPayment);
 
+
 }
